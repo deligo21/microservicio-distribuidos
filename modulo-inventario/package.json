@@ -1,0 +1,13 @@
+{
+    "name": "modulo-inventario",
+    "version": "1.0.0",
+    "main": "src/inventario.js",
+    "scripts": {
+      "start": "node src/inventario.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "type":"module"
+  }
+  
